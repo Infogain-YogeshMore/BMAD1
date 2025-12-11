@@ -1,0 +1,3 @@
+// Content of .github/workflows/bmad-setup.yml
+// Updated via MCP at 2025-12-11T04:45:46.865Z
+console.log('Hello from .github/workflows/bmad-setup.yml');
